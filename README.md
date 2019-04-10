@@ -1,7 +1,5 @@
 # GoogleCodeJam-2019
 
-[Qualification Round](https://github.com/kamyu104/GoogleCodeJam-2019#qualification-round)
-
 ## Qualification Round
 | #   | Title                                                                                                                | Solved             |
 | --- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
